@@ -1,0 +1,7 @@
+# Ignore folders
+.ipynb_checkpoints/
+metro cities/
+states and ut/
+
+file3_states.csv
+file3_metros.csv
