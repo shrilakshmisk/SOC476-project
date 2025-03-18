@@ -5,6 +5,10 @@ The CSV files for **File 3** can be accessed from the following Google Drive lin
 
 🔗 [Drive Link for CSV Files](https://drive.google.com/drive/folders/1bjhp5GcQb5csw0TchRRKFm50MRK5IFTt?usp=sharing)
 
+## LASI Data
+[States and UT](https://drive.google.com/file/d/1v-fmR8FvbdewiGTTrMkzCDGcEIR2NF1i/view?usp=sharing)
+[Metro](https://drive.google.com/file/d/15kzxxQTinp5zOWXh-ICuJyNPw3_aE5uX/view?usp=sharing)
+
 ---
 
 ## Folder Structure
